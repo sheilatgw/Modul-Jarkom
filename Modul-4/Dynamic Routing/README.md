@@ -1,0 +1,1 @@
+aku ga suka orang pacaran
