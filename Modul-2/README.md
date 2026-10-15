@@ -1,4 +1,4 @@
-# Tutorial Pra-Praktikum Modul 2 — HTTP Server, DNS Server, dan Reverse Proxy
+# Tutorial Praktikum Modul 2 — HTTP Server, DNS Server, dan Reverse Proxy
 
 > **Catatan:** Ganti `[IP Prefix]` sesuai pembagian IP yang diumumkan. Penanda **INPUT SCREENSHOT** menunjukkan bagian yang perlu diberi screenshot. Dokumen ini hanya berisi tutorial, tanpa soal dan pertanyaan refleksi.
 
