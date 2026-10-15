@@ -1,4 +1,4 @@
-# Tutorial Pra-Praktikum Modul 1 — Topologi Jaringan Dasar
+# Tutorial Praktikum Modul 1 — Topologi Jaringan Dasar
 
 > **Catatan:** Ganti `[IP Prefix]` sesuai pembagian IP yang diberikan. Contoh `192.168` menghasilkan alamat `192.168.100.101`.
 >
